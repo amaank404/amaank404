@@ -10,6 +10,8 @@ know a couple more languages which include
 - Nim
 - C (Basics)
 - Rust (Basics)
+- SQL (Basics)
+- Kotlin (Basics)
 
 I will say it already, I do not like Rust and would probabbly prefer not to work with it ever again.
 That is due to its torturingly bad Memory System that I hate so much that I would rather use PHP.
@@ -26,11 +28,11 @@ That is due to its torturingly bad Memory System that I hate so much that I woul
 
 There are many things that I am trying to learn or want to learn, here is a short list of them:
 
-- 3D-Modelling with Blender
-- Video Editing with ShortCut
-- Artist with LibreSprite, Krita
 - C++ and C
 - Basic Operating System Development
 - Data Structures and Algorithms
+- Android Development with Jetpack and Kotlin
+- JavaScript for frontend and backend
 
-**I barely ever maintain this file, it might get outdated with time**
+**I barely ever maintain this file, it might get outdated with time <br/>
+Last Updated on: 23 Jan 2023**
