@@ -1,38 +1,38 @@
-# A general introduction about me
+# (ㅅ´ ˘ `) Hello there!
 
-My name is, well, Amaan and I am a self taught computer programmer. I just generally like to code
-including during my freetime. My pronouns are he/him and I am mostly experienced with Python. I
-know a couple more languages which include
+My name is, well, Amaan and I am a self taught soft dev. I code 
+during my freetime. Refer me as he/him and my playing field is mostly Python. I
+know a couple more interesting stuff n languages :D
 
 - Python3
 - HTML5
 - CSS
-- Nim
 - C (Basics)
 - Rust (Basics)
 - SQL (Basics)
-- Kotlin (Basics)
 
-I will say it already, I do not like Rust and would probabbly prefer not to work with it ever again.
-That is due to its torturingly bad Memory System that I hate so much that I would rather use PHP.
+My use of emoticons may be scarce :P so lemme know if I say something mean.
 
-### A few behavioral patterns about me
- 
-- I tend to use emojis very scarcely, so you might get my meaning of sentences wrong sometimee
-- I prefer not to be mentioned for something I am totally unrelated with. For example, if someone
-  just created a new repo, I wouldn't attend to any requests for my help. When people do this, it
-  makes me sad.
-- I am going to mention it once and for all, I am a student and I am not for hire.
+As for libraries and frameworks, I can't be bothered to list them since I am almost never stuck on a single one of em (Just too much interesting stuff on the internet :P). My fields of knowledge is mostly backend with a pinch of networking.
 
-### What I want to learn in the near future
+### Here is pretty much all I wanna do next
 
-There are many things that I am trying to learn or want to learn, here is a short list of them:
+Learning is a long process ngl, hence I ain't committed to this stuff yet but would love to learn it all :D
 
-- C++ and C
-- Basic Operating System Development
-- Data Structures and Algorithms
-- Android Development with Jetpack and Kotlin
-- JavaScript for frontend and backend
+- C++ and C  (I hope I pick this up from college)
+- Mobile dev with flutter (I sure like flutter but this one is gonna take time n practice :/ )
+- JavaScript for frontend and backend (pretty popular last I heard)
+- Rust (n some Vulkan along with it)
 
-**I barely ever maintain this file, it might get outdated with time <br/>
-Last Updated on: 23 Jan 2023**
+### Mean Side (╯°□°)╯︵ ┻━┻
+
+* Dontcha mention me on something unrelated
+* I ain't for hire and nor am I gonna help out of my own free will :P
+* Respect my privacy ಠ_ಠ
+
+### 日本語を勉強してる
+
+日本は好きなので、日本語を勉強してる。まだ日本語で話せるほど上手ではない。日本の漫画やアニメが大好きで、日本語をもっと上手に話せるようになりたい
+
+**I barely ever maintain this file, it might get outdated with time :P<br/>
+Last Updated on: 7 April 2024**
