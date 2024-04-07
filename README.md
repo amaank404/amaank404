@@ -32,7 +32,7 @@ Learning is a long process ngl, hence I ain't committed to this stuff yet but wo
 
 ### 日本語を勉強してる
 
-日本は好きなので、日本語を勉強してる。まだ日本語で話せるほど上手ではない。日本の漫画やアニメが大好きで、日本語をもっと上手に話せるようになりたい
+日本が好きなので、日本語を勉強してる。まだ日本語があんまり話せない。漫画やアニメが大好き。
 
 **I barely ever maintain this file, it might get outdated with time :P<br/>
 Last Updated on: 7 April 2024**
