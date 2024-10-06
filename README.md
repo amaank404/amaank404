@@ -5,7 +5,7 @@
 <a href="https://pinterest.com/amaank404/">![Static Badge](https://img.shields.io/badge/pinterest-white?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=%23BD081C&color=%23BD081C)</a>
 <a href="https://stackoverflow.com/users/14887424/amaank404">![Static Badge](https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F58025&color=%23F58025)</a>
 <a href="https://www.codewars.com/users/amaank404">![Static Badge](https://img.shields.io/badge/CodeWars-white?style=for-the-badge&logo=codewars&logoColor=white&labelColor=%23B1361E&color=%23B1361E)</a>
-<a href="">![Static Badge](https://img.shields.io/badge/Monkeytype-white?style=for-the-badge&logo=monkeytype&logoColor=black&labelColor=%23E2B714&color=%23E2B714)</a>
+<a href="https://monkeytype.com/profile/amaank404">![Static Badge](https://img.shields.io/badge/Monkeytype-white?style=for-the-badge&logo=monkeytype&logoColor=black&labelColor=%23E2B714&color=%23E2B714)</a>
 
 <a href="https://www.codewars.com/users/amaank404">![CodeWars Badge](https://www.codewars.com/users/amaank404/badges/small)</a>
 
