@@ -1,10 +1,12 @@
 ![](github-header-image.png)
+
 <a href="https://bento.me/amaank404">![Static Badge](https://img.shields.io/badge/Bento-white?style=for-the-badge&logo=bento&logoColor=white&labelColor=%23768CFF&color=%23768CFF)</a>
 <a href="https://myanimelist.net/profile/Amaank404">![Static Badge](https://img.shields.io/badge/MyAnimeList-white?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=%232E51A2&color=%232E51A2)</a>
 <a href="https://pinterest.com/amaank404/">![Static Badge](https://img.shields.io/badge/pinterest-white?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=%23BD081C&color=%23BD081C)</a>
 <a href="https://stackoverflow.com/users/14887424/amaank404">![Static Badge](https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=%23F58025&color=%23F58025)</a>
 <a href="https://www.codewars.com/users/amaank404">![Static Badge](https://img.shields.io/badge/CodeWars-white?style=for-the-badge&logo=codewars&logoColor=white&labelColor=%23B1361E&color=%23B1361E)</a>
 <a href="">![Static Badge](https://img.shields.io/badge/Monkeytype-white?style=for-the-badge&logo=monkeytype&logoColor=black&labelColor=%23E2B714&color=%23E2B714)</a>
+
 <a href="https://www.codewars.com/users/amaank404">![CodeWars Badge](https://www.codewars.com/users/amaank404/badges/small)</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaank404&show_icons=true&theme=github_dark)
