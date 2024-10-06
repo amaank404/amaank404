@@ -1,4 +1,4 @@
-# (ㅅ´ ˘ `) Hello there!
+![](github-header-image.png)
 
 My name is, well, Amaan and I am a self taught soft dev. I code 
 during my freetime. Refer me as he/him and my playing field is mostly Python. I
