@@ -20,13 +20,15 @@ My name is, well, Amaan and I am a self taught soft dev. I code
 during my freetime. Refer me as he/him and my playing field is mostly Python. I
 know a couple more interesting stuff n languages :D
 
-![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%233776AB)
-![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=%231572B6&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=black&labelColor=%23A8B9CC&color=%23A8B9CC)
-![Static Badge](https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=white&labelColor=%23000000&color=%23000000)
-![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
+
+
+![Static Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 My use of emoticons may be scarce :P so lemme know if I say something mean.
 
