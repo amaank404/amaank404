@@ -25,8 +25,6 @@ know a couple more interesting things n languages though I lack confidence in th
 ![][HTML5Badge]
 ![][CSS3Badge]
 ![][JavascriptBadge]
-![][CBadge]
-![][RustBadge]
 ![][SqlBadge]
 
 I am familiar with tons of frameworks and libraries to build stuff around them though some might need a lil bit of relearning.
