@@ -93,7 +93,6 @@ Though, the art of learning new things *(and we don't talk bout the abandonment 
 ### Mean Side (╯°□°)╯︵ ┻━┻
 
 * Please don't mention me in places where I am not involved!
-* I ain't for hire and nor am I gonna help out of my own free will
 * Respect my privacy ಠ_ಠ
 
 ### 日本語を勉強しています
