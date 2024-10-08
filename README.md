@@ -100,7 +100,7 @@ Though, the art of learning new things *(and we don't talk bout the abandonment 
 いずれに日本で生きて欲しいなので日本語を勉強しています。今はN5レベルですがN4レベルの文法は知っています。今の事は下手なのでGitHubでは日本語であんまり話せません！漫画やアニメが大好きです！！
 
 **I barely ever maintain this file, it might get outdated with time :P<br/>
-Last Updated on: 10 Oct 2024**
+Last Updated on: 7 Oct 2024**
 
 <!-- Framework Badges -->
 [Profile]: https://img.shields.io/badge/Profile-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white
