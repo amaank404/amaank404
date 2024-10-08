@@ -1,5 +1,6 @@
 ![](github-header-image.png)
 
+<a href="https://amaank404.github.io">![][Profile]</a>
 <a href="https://bento.me/amaank404">![][BentoBadge]</a>
 <a href="https://myanimelist.net/profile/Amaank404">![][MALBadge]</a>
 <a href="https://pinterest.com/amaank404/">![][PinterestBadge]</a>
@@ -102,6 +103,7 @@ Though, the art of learning new things *(and we don't talk bout the abandonment 
 Last Updated on: 10 Oct 2024**
 
 <!-- Framework Badges -->
+[Profile]: https://img.shields.io/badge/Profile-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white
 [ArchLinux]: https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white
 [Blender]: https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white
 [ClickUp]: https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white
