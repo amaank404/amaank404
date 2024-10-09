@@ -71,6 +71,7 @@ I am familiar with tons of frameworks and libraries to build stuff around them t
 ![][Sass]
 ![][Spyder]
 ![][SQLite]
+![][TailwindCSS]
 ![][TOML]
 ![][TQDM]
 ![][Ubuntu]
@@ -154,6 +155,7 @@ Last Updated on: 7 Oct 2024**
 [Vuejs]: https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white
 [Xubuntu]: https://img.shields.io/badge/Xubuntu-0044AA.svg?style=for-the-badge&logo=Xubuntu&logoColor=white
 [YAML]: https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white
+[TailwindCSS]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
 
 <!-- Programming Badges -->
 [CBadge]: https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black
