@@ -8,6 +8,7 @@
 <a href="https://www.codewars.com/users/amaank404">![][CodeWarsBadge]</a>
 <a href="https://monkeytype.com/profile/amaank404">![][MonkeyTypeBadge]</a>
 <a href="https://leetcode.com/u/amaank404/">![][LeetcodeBadge]</a>
+<a href="https://wakatime.com/@amaank404">![][Wakatime]</a>
 
 <a href="https://www.codewars.com/users/amaank404">![CodeWars Badge](https://www.codewars.com/users/amaank404/badges/small)</a>
 
@@ -175,3 +176,4 @@ Last Updated on: 7 Oct 2024**
 [CodeWarsBadge]: https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white
 [MonkeyTypeBadge]: https://img.shields.io/badge/Monkeytype-E2B714.svg?style=for-the-badge&logo=Monkeytype&logoColor=black
 [LeetcodeBadge]: https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white
+[Wakatime]: https://wakatime.com/badge/user/402eb1c7-b87f-45b3-88a6-73efc1c14092.svg?style=for-the-badge
