@@ -31,60 +31,6 @@ know a couple more interesting things n languages though I lack confidence in th
 
 I am familiar with tons of frameworks and libraries to build stuff around them though some might need a lil bit of relearning.
 
-![][ArchLinux]
-![][Blender]
-![][ClickUp]
-![][Debian]
-![][Docker]
-![][Fedora]
-![][FFMPEG]
-![][Flask]
-![][Git]
-![][Gimp]
-![][Github]
-![][GithubActions]
-![][Gnome]
-![][Inkscape]
-![][IntelliJ]
-![][JQuery]
-![][Jupyter]
-![][KaliLinux]
-![][KDEPlasma]
-![][KDenlive]
-![][Keras]
-![][KUbuntu]
-![][LibreOffice]
-![][Linux]
-![][Make]
-![][Manjaro]
-![][MariaDB]
-![][Markdown]
-![][MaterialIcons]
-![][MinGW]
-![][Numpy]
-![][OSI]
-![][Pandas]
-![][Poetry]
-![][PreCommit]
-![][PyCharm]
-![][PyPI]
-![][Qt]
-![][Sass]
-![][Spyder]
-![][SQLite]
-![][TailwindCSS]
-![][TOML]
-![][TQDM]
-![][Ubuntu]
-![][Unicode]
-![][Vim]
-![][VirtualBox]
-![][VMWare]
-![][Vuejs]
-![][Xubuntu]
-![][YAML]
-
-###### Above list is non-exhausitve (Multiple other technologies/frameworks missing out)
 
 ### My Radar
 
@@ -101,7 +47,7 @@ Though, the art of learning new things *(and we don't talk bout the abandonment 
 いずれに日本で生きて欲しいなので日本語を勉強しています。今はN5レベルですがN4レベルの文法は知っています。今の事は下手なのでGitHubでは日本語であんまり話せません！漫画やアニメが大好きです！！
 
 **I barely ever maintain this file, it might get outdated with time :P<br/>
-Last Updated on: 7 Oct 2024**
+Last Updated on: 4 April 2025**
 
 <!-- Framework Badges -->
 [Profile]: https://img.shields.io/badge/Profile-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white
