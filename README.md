@@ -2,10 +2,7 @@
 
 <a href="https://amaank404.github.io">![][Profile]</a>
 <a href="https://bento.me/amaank404">![][BentoBadge]</a>
-<a href="https://myanimelist.net/profile/Amaank404">![][MALBadge]</a>
-<a href="https://pinterest.com/amaank404/">![][PinterestBadge]</a>
 <a href="https://stackoverflow.com/users/14887424/amaank404">![][SOBadge]</a>
-<a href="https://www.codewars.com/users/amaank404">![][CodeWarsBadge]</a>
 <a href="https://monkeytype.com/profile/amaank404">![][MonkeyTypeBadge]</a>
 <a href="https://leetcode.com/u/amaank404/">![][LeetcodeBadge]</a>
 <a href="https://wakatime.com/@amaank404">![][Wakatime]</a>
@@ -17,11 +14,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amaank404&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaank404&theme=github_dark&utcOffset=5.5)
 
-###### *Check out my [Bento](https://bento.me/amaank404) for more links associated with me!*
-
-Hi there! I am Amaan, yet another self taught dev. I code 
+###### *Check out my [Bento](https://bento.me/amaank404) for more social links associated with me!*
+###### I used arch btw
+Hey there! I am Amaan, yet another self taught dev. I code 
 during my freetime. Refer to me as he/him and my area of expertise mostly covers Python. I
-know a couple more interesting things n languages though I lack confidence in that aspect! 😅
+know a couple more interesting things & languages around this domain.
 
 ![][PythonBadge]
 ![][HTML5Badge]
@@ -29,25 +26,28 @@ know a couple more interesting things n languages though I lack confidence in th
 ![][JavascriptBadge]
 ![][SqlBadge]
 
-I am familiar with tons of frameworks and libraries to build stuff around them though some might need a lil bit of relearning.
+I am familiar with tons of frameworks and libraries to build stuff around them though some might need a lil bit of revisiting.
+Documentation is the key to learning something faster, it takes time to build the vocab for it but it was well worht it, 
+learing any thing new is now a documentation and mini project away.
 
 
-### My Radar
+### Future Prospects
 
-Learning is a long process and I am <ins>not</ins> the kind to commit my time to anything specific given that I've got pretty important things on my plate. Hence I am not sure how far I'de get into learning new things as of now.
-Though, the art of learning new things *(and we don't talk bout the abandonment issues)* is how I've got this weirdly scattered bits of knowledge from seemingly random fields.
+Learning is a long process, it requires consistency and discipline, and most importantly, time. Right now, it isn't the best
+of this century for me to explore new sub domains, but I've certainly got a AI/ML on the track somewhere
+down the line. As far as my current knowledge-base reaches out to, I've had scattered bit of know-how about everything there is
+to CSE, eventually, I'll move on to specialise/master one of them.
+
+Jack of all trades, master of none, often better than the master of one.
 
 
-### Mean Side (╯°□°)╯︵ ┻━┻
+### Privacy Policy
 
 * Please don't mention me in places where I am not involved!
-* Respect my privacy ಠ_ಠ
-
-### 日本語を勉強しています
-いずれに日本で生きて欲しいなので日本語を勉強しています。今はN5レベルですがN4レベルの文法は知っています。今の事は下手なのでGitHubでは日本語であんまり話せません！漫画やアニメが大好きです！！
+* Respect my privacy
 
 **I barely ever maintain this file, it might get outdated with time :P<br/>
-Last Updated on: 4 April 2025**
+Last Updated on: 12 June 2025**
 
 <!-- Framework Badges -->
 [Profile]: https://img.shields.io/badge/Profile-D40000.svg?style=for-the-badge&logo=asciinema&logoColor=white
