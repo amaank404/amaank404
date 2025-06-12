@@ -46,7 +46,7 @@ Jack of all trades, master of none, often better than the master of one.
 * Please don't mention me in places where I am not involved!
 * Respect my privacy
 
-**I barely ever maintain this file, it might get outdated with time :P<br/>
+**I barely ever maintain this file, it might get outdated with time <br/>
 Last Updated on: 12 June 2025**
 
 <!-- Framework Badges -->
