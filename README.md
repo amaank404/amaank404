@@ -3,11 +3,7 @@
 <a href="https://amaank404.github.io">![][Profile]</a>
 <a href="https://bento.me/amaank404">![][BentoBadge]</a>
 <a href="https://stackoverflow.com/users/14887424/amaank404">![][SOBadge]</a>
-<a href="https://monkeytype.com/profile/amaank404">![][MonkeyTypeBadge]</a>
-<a href="https://leetcode.com/u/amaank404/">![][LeetcodeBadge]</a>
-<a href="https://wakatime.com/@amaank404">![][Wakatime]</a>
 
-<a href="https://www.codewars.com/users/amaank404">![CodeWars Badge](https://www.codewars.com/users/amaank404/badges/small)</a>
 
 ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaank404&show_icons=true&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amaank404&theme=github_dark)
